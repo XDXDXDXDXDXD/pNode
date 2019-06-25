@@ -65,7 +65,7 @@ Use the ```nodemcu-tool``` command to upload, download, and run ```.lua``` scrip
 
 Note: if you're registering a new device, make sure that the token field is empty, this is the only way a pNode can be registered to the database. After a device is added to the database, copy it's token and paste it back into the configuration file, then re-upload the configuration file, and you're all set.
 
-For more information on the security mechanisms used to protect HTTP requests, please check the server's repo here: https://github.com/d0nd3r3k/WMSNWSS
+For more information on the security mechanisms used to protect HTTP requests, please check the server's repo here: 
 
 The following commands is used to upload ```.lua``` scripts onto your new device.
 
